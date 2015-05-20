@@ -1,0 +1,5 @@
+#compiled source #
+##################
+bin/*
+obj/*
+publish/*
